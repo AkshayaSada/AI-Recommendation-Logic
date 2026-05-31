@@ -1,7 +1,7 @@
 PROJECT NAME:
 AI Recommendation Logic
 
-OBJECTIVE:
+OBJECTIVE: 
 To create a recommendation system that suggests
 career paths based on user skills.
 
